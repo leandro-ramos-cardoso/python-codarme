@@ -1,0 +1,3 @@
+# OPERADORES LÓGICOS (NOT, AND, OR)
+
+num
